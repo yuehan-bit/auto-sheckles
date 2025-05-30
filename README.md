@@ -18,7 +18,7 @@
 
 To ensure proper injection and functionality, **follow these steps exactly**:
 
-1. Open your **Roblox Player Beta or Roblox**
+1. Don't open your roblox using any browser, instead open your **Roblox Player Beta or Roblox** on **Desktop**.
 2. **Run `auto-sheckles-for-grow-a-garden.exe`.
 3. Once the EXE window opens, Join **Grow a Garden**
 4. The EXE will automatically detect the game and start farming Shekcles.
