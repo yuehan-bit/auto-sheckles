@@ -18,11 +18,10 @@
 
 To ensure proper injection and functionality, **follow these steps exactly**:
 
-1. **Close Roblox completely** (make sure no RobloxPlayerBeta.exe is running in Task Manager).
+1. Open your **Roblox Player Beta or Roblox**
 2. **Run `auto-sheckles-for-grow-a-garden.exe`.
-3. Once the EXE window opens, **launch Roblox manually**.
-4. Join the **Grow a Garden** game.
-5. The EXE will automatically detect the game and start farming Shekcles.
+3. Once the EXE window opens, Join **Grow a Garden**
+4. The EXE will automatically detect the game and start farming Shekcles.
 
 > 🔄 To stop the bot, simply close the EXE window.
 
