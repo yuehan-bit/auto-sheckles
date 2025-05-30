@@ -45,5 +45,5 @@ Using third-party tools with Roblox **may violate Roblox’s Terms of Service** 
 
 ## 📥 Download
 
-Download the latest version from the [Releases](https://github.com/yourusername/auto-shekcles-exe/releases) tab.
+Download the latest version from the [Releases](https://github.com/yuehan-bit/auto-sheckles/releases) tab.
 
