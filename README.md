@@ -1,6 +1,6 @@
 # 🌿 Auto Shekcles EXE – Grow a Garden Auto-Farming Tool
 
-**Auto Shekcles EXE** is a standalone Windows tool that automates Shekcles collection in the Roblox game **Grow a Garden**. No need for manual script execution—just follow the launch steps and let it run in the background.
+**auto-scheckles-for-grow-a-garden.exe** is a standalone Windows tool that automates Shekcles collection in the Roblox game **Grow a Garden**. No need for manual script execution—just follow the launch steps and let it run in the background.
 
 ## ⚙️ Features
 
@@ -19,7 +19,7 @@
 To ensure proper injection and functionality, **follow these steps exactly**:
 
 1. **Close Roblox completely** (make sure no RobloxPlayerBeta.exe is running in Task Manager).
-2. **Run `AutoShekcles.exe`.
+2. **Run `auto-sheckles-for-grow-a-garden.exe`.
 3. Once the EXE window opens, **launch Roblox manually**.
 4. Join the **Grow a Garden** game.
 5. The EXE will automatically detect the game and start farming Shekcles.
@@ -28,7 +28,7 @@ To ensure proper injection and functionality, **follow these steps exactly**:
 
 ## 📂 Files Included
 
-- `AutoShekcles.exe` – Main executable file
+- `auto-sheckles-for-grow-a-garden.exe` – Main executable file
 
 ## 🧾 Notes
 
